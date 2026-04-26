@@ -1,4 +1,4 @@
-#Download the readme file for better reading 
+#Download the readme file for better reading or view in as raw 
 # NovaGen_Labs
 
 Assignment Project
